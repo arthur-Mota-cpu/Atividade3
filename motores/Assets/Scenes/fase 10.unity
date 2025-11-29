@@ -904,8 +904,8 @@ Transform:
   m_GameObject: {fileID: 1043496673}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 642.14, y: 7.58, z: 0}
-  m_LocalScale: {x: 5.7251, y: 6.3699427, z: 1}
+  m_LocalPosition: {x: 641.8032, y: 7.58, z: 0}
+  m_LocalScale: {x: 5.8791056, y: 6.3699427, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -924,11 +924,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7284854083576788894, guid: 8192f352cb19a794aa8e3f35916794c7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 508.17
+      value: 508.09
       objectReference: {fileID: 0}
     - target: {fileID: 7284854083576788894, guid: 8192f352cb19a794aa8e3f35916794c7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.54
+      value: 3.95
       objectReference: {fileID: 0}
     - target: {fileID: 7284854083576788894, guid: 8192f352cb19a794aa8e3f35916794c7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1018,6 +1018,10 @@ PrefabInstance:
     - target: {fileID: 1894282336206506556, guid: 4ed3c17023a71fc4cb3e0ef425b32552, type: 3}
       propertyPath: m_Name
       value: dino1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4033926179055992213, guid: 4ed3c17023a71fc4cb3e0ef425b32552, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25358,7 +25362,7 @@ Transform:
   m_GameObject: {fileID: 1507338857}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 613.9, y: 7.31, z: 0}
+  m_LocalPosition: {x: 612.99, y: 6.22, z: 0}
   m_LocalScale: {x: 8.3163, y: 5.0561, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -25918,6 +25922,10 @@ PrefabInstance:
     - target: {fileID: 2709098971885306461, guid: 3316bf717e1b5a94893f33e58a079dea, type: 3}
       propertyPath: velocidade
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8790508483885964554, guid: 3316bf717e1b5a94893f33e58a079dea, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
